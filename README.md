@@ -23,7 +23,7 @@ https://github.com/soumik-kanad/diff2lip
 
 ### Implementation 
 #### Diff2Lip Checkpoint
-Diff2Lip_ckpt folder
+Please download the checkpoint from the Diff2Lip_ckpt folder using the link below.
 
 https://osf.io/q4p3v/
 ```
