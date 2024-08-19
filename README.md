@@ -8,7 +8,7 @@
 ### Original FaceFusion github link
 https://github.com/facefusion/facefusion
 
-### Implementation 
+### Implementation command
 ```
 python facefusion.py --video 'Source video directory' --savepath 'saving directory' --source 'targetted face image directory' --onnx
 ```
@@ -21,11 +21,12 @@ https://docs.facefusion.io/introduction/licenses
 ### Original Diff2lip github link
 https://github.com/soumik-kanad/diff2lip
 
-### Implementation 
-#### Diff2Lip Checkpoint
+### Diff2Lip Checkpoint
 Please download the checkpoint from the Diff2Lip_ckpt folder using the link below.
 
 https://osf.io/q4p3v/
+
+### Implementation command
 ```
 ./scripts/inference_single_video.sh
 ```
