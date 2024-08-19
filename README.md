@@ -22,6 +22,10 @@ https://docs.facefusion.io/introduction/licenses
 https://github.com/soumik-kanad/diff2lip
 
 ### Implementation 
+#### Diff2Lip Checkpoint
+Diff2Lip_ckpt folder
+
+https://osf.io/q4p3v/
 ```
 ./scripts/inference_single_video.sh
 ```
