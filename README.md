@@ -8,6 +8,11 @@
 ### Original FaceFusion github link
 https://github.com/facefusion/facefusion
 
+### Implementation 
+'''
+python facefusion.py --video 'Source video directory' --savepath 'saving directory' --source 'targetted face image directory' --onnx
+'''
+
 ### License
 https://docs.facefusion.io/introduction/licenses
 
@@ -15,6 +20,11 @@ https://docs.facefusion.io/introduction/licenses
 ## Diff2Lip
 ### Original Diff2lip github link
 https://github.com/soumik-kanad/diff2lip
+
+### Implementation 
+'''
+./scripts/inference_single_video.sh
+'''
 
 ### License
 Except where otherwise specified, the text/code on Diff2Lip repository by Soumik Mukhopadhyay (soumik-kanad) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). It can be shared and adapted provided that they credit us and don't use our work for commercial purposes.
